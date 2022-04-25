@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://twitter.com/RoyBoysRealm" target="_blank">
-    <img src="https://img.shields.io/badge/%40RoyBoysRealm-161c60?style=plastic&logo=twitter&logoColor=25bdd6"/>
+    <img src="https://img.shields.io/badge/%40RoyBoysRealm-161c60?style=for-the-badge&logo=twitter&logoColor=25bdd6"/>
   </a>
   <a href="https://www.linkedin.com/in/elroyurbina/" target="_blank">
     <img src="https://img.shields.io/badge/Elroy%20Urbina-161c60?logo=linkedin&logoColor=25bdd6&style=for-the-badge"/>
