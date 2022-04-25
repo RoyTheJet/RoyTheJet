@@ -14,7 +14,7 @@
 
 ## About Me
 - 👋 I'm Elroy (he/him)
-- 🌉 I'm from the San Antonio
+- 🌉 I'm from San Antonio
 - 🌱 I’m currently learning **React, Node, Express, MongoDB**
 - 👨‍💻 All of my projects are available at [elroyurbina.netlify.app/](elroyurbina.netlify.app/)
 
