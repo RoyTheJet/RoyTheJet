@@ -1,17 +1,31 @@
-<h1 align="center">Hi 👋, I'm Elroy Urbina</h1>
-<h3 align="center">Full Stack Software Engineer from San Antonio</h3>
+<img src="cover.png" width="100%">
 
-<p align="left"> <a href="https://twitter.com/royboysrealm" target="blank"><img src="https://img.shields.io/twitter/follow/royboysrealm?logo=twitter&style=for-the-badge" alt="royboysrealm" /></a> </p>
-
-- 🌱 I’m currently learning **React, Node, Express, MongoDB**
-
-- 👨‍💻 All of my projects are available at [elroyurbina.netlify.app/](elroyurbina.netlify.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/royboysrealm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="royboysrealm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/elroyurbina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elroyurbina/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/RoyBoysRealm" target="_blank">
+    <img src="https://img.shields.io/badge/-@RoyBoysRealm-161c60-"/>
+  </a>
+  <a href="https://www.linkedin.com/in/leiannefaj/" target="_blank">
+    <img src="https://img.shields.io/badge/-Leianne Fajutagana-f46db0?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:leianne.fajutagana@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-leianne.fajutagana@gmail.com-f46db0?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+## About Me
+* 👋 &nbsp;I'm Leianne (she/her)
+* 🌉 &nbsp;I'm from the San Francisco Bay Area
+* 🧠 &nbsp;I’m currently learning React
+* 💖 &nbsp;I love watching anime, stanning BTS, & roller skating 🛼
+
+## Technologies
+![skills](https://skillicons.dev/icons?i=html,css,js,react,py,r,vim,git,vscode&theme=light)
+
+## My Stats
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=leifaj&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=20222d&currStreakLabel=f46db0&fire=f46db0&stroke=white&dates=white&currStreakNum=DDDDDD&ring=f46db0&sideNums=f46db0&sideLabels=f46db0">
+<p>
+
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=leifaj.leifaj&left_color=hotpink&right_color=hotpink&left_text=profile%20views"/>
+<p>
